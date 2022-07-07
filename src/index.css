@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap');
 *{
-  background-color: darkslategray;
+  font-family: 'Fredoka', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #bbbcd2;
+  opacity: 1;
+  background-image:  linear-gradient(30deg, #aca5be 12%, transparent 12.5%, transparent 87%, #aca5be 87.5%, #aca5be), linear-gradient(150deg, #aca5be 12%, transparent 12.5%, transparent 87%, #aca5be 87.5%, #aca5be), linear-gradient(30deg, #aca5be 12%, transparent 12.5%, transparent 87%, #aca5be 87.5%, #aca5be), linear-gradient(150deg, #aca5be 12%, transparent 12.5%, transparent 87%, #aca5be 87.5%, #aca5be), linear-gradient(60deg, #aca5be77 25%, transparent 25.5%, transparent 75%, #aca5be77 75%, #aca5be77), linear-gradient(60deg, #aca5be77 25%, transparent 25.5%, transparent 75%, #aca5be77 75%, #aca5be77);
+  background-size: 18px 32px;
+  background-position: 0 0, 0 0, 9px 16px, 9px 16px, 0 0, 9px 16px;
 }
